@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+    <user id="1">
+        <name>飞龙</name>
+        <password>feilong</password>
+    </user>
+    <user id="2">
+        <name>飞飞</name>
+        <password>feifei</password>
+    </user>
+    <user id="3">
+        <name>田坤</name>
+        <password>tiankun</password>
+    </user>
+    <user id="4">
+        <name>蔚鹏</name>
+        <password>weipeng</password>
+    </user>
+
+</users>
